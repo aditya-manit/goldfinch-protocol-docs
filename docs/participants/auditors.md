@@ -34,7 +34,7 @@ to act fraudulently and should lose their approval.
 
 ## Approval Vote Outcomes
 Once selected, auditors have 48 hours to provide a `Yes`, `Unsure`, or `No` vote. 
-TheirGFI is slashed if they:
+Their GFI is slashed if they:
 - don’t vote within the 48 hour window, 
 - vote `Yes` when the majority vote `No`, or 
 - vote `No` when the majority vote `Yes`.
