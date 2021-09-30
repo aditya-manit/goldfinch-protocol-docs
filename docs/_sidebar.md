@@ -8,7 +8,7 @@
   - [Auditors](/participants/auditors.md)
   - [Liquidity Providers](/participants/liquidityProviders.md)
   
-- Advance Topics
+- Advanced Topics
   - [Leverage Model](/advance/leverageModel.md)
   - [Unique Entity Check](/advance/uniqueEntityCheck.md)
   - [Governance](/advance/governance.md)
