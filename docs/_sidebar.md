@@ -8,8 +8,8 @@
   - [Auditors](/participants/auditors.md)
   - [Liquidity Providers](/participants/liquidityProviders.md)
   
-  - Advance Topics
-    - [Leverage Model](/advance/leverageModel.md)
-    - [Unique Entity Check](/advance/uniqueEntityCheck.md)
-    - [Governance](/advance/governance.md)
-    - [Discussion of Fraud Resistance](/advance/discussionOfFraudResistance.md)
+- Advance Topics
+  - [Leverage Model](/advance/leverageModel.md)
+  - [Unique Entity Check](/advance/uniqueEntityCheck.md)
+  - [Governance](/advance/governance.md)
+  - [Discussion of Fraud Resistance](/advance/discussionOfFraudResistance.md)
